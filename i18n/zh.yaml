@@ -83,6 +83,9 @@
 
 # About widget
 
+- id: birth
+  translation: 出生日期
+
 - id: interests
   translation: 兴趣爱好
 

@@ -16,6 +16,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 天之家族的公子
 
+birth:
+- 光影纪元990年2月18日
+
 interests:
 - 读书
 - 写作
@@ -68,4 +71,4 @@ user_groups:
 - 五绝
 ---
 
-天光是江南地区天之家族的公子，于光影纪元990年出生，为人沉稳冷静，喜怒不形于色，其身世成谜。
+天光是江南地区天之家族的公子，为人沉稳冷静，喜怒不形于色，其身世成谜。
