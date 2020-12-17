@@ -16,8 +16,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 天之家族的公子
 
-birth:
-- 光影纪元990年2月18日
 
 interests:
 - 读书
