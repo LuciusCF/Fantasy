@@ -4,7 +4,7 @@
 title: "测试文章1"
 subtitle: ""
 summary: "魏老湿莫虚2"
-authors: [天光]
+authors: []
 tags: []
 categories: []
 date: 2020-12-17T15:39:30+08:00
@@ -29,3 +29,7 @@ projects: []
 ---
 
 魏老湿莫虚2
+
+
+
+<iframe src="//player.bilibili.com/player.html?aid=970370147&bvid=BV1np4y1r7PF&cid=255891992&page=41&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
