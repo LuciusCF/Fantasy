@@ -5,7 +5,7 @@ title: 全部文章
 #   1 = List
 #   2 = Compact
 #   3 = Card
-view: 1
+view: 2
 
 # Optional header image (relative to `static/media/` folder).
 header:
