@@ -3,7 +3,7 @@
 
 title: "天之五绝（1）"
 subtitle: ""
-summary: "魏老湿莫虚"
+summary: "故事的一切，要从命运的邂逅开始。"
 authors: []
 tags: []
 categories: []
