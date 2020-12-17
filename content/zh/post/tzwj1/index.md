@@ -4,7 +4,7 @@
 title: "天之五绝（1）"
 subtitle: ""
 summary: "故事的一切，要从命运的邂逅开始。"
-authors: []
+authors: [admin, nayi]
 tags: []
 categories: []
 date: 2020-12-17T15:31:30+08:00
