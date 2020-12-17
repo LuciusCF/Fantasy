@@ -4,7 +4,7 @@
 title: "测试文章1"
 subtitle: ""
 summary: "魏老湿莫虚2"
-authors: []
+authors: [天光]
 tags: []
 categories: []
 date: 2020-12-17T15:39:30+08:00
@@ -18,7 +18,7 @@ draft: false
 image:
   caption: ""
   focal_point: "Center"
-  preview_only: true
+  preview_only: false
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
