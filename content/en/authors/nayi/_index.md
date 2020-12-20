@@ -1,20 +1,20 @@
 ---
 # Display name
-title: 天光
+title: 娜依
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: 中神通
+role: 西纯
 
 # Organizations/Affiliations
 organizations:
-- name: 天之家族
+- name: 西京
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 天之家族的公子
+bio: 天光的挚友
 
 
 #interests:
@@ -69,10 +69,10 @@ user_groups:
 - 五绝
 ---
 
-天光是江南地区天之家族的公子，为人沉稳冷静，喜怒不形于色，其身世成谜。
+娜依是西域地区人士，精通音乐，素有“人间仙音”的称号。
 
 
 
 ###### 出生日期：
 
-光影纪元990年2月18日
+光影纪元995年6月13日

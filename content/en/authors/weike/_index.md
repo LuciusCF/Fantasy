@@ -1,20 +1,20 @@
 ---
 # Display name
-title: 天光
+title: 魏克
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: 中神通
+role: 上国科大的老师
 
 # Organizations/Affiliations
 organizations:
-- name: 天之家族
+- name: 上国科大
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 天之家族的公子
+bio: 天光的师弟
 
 
 #interests:
@@ -66,13 +66,13 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 五绝
+- 上国科大
 ---
 
-天光是江南地区天之家族的公子，为人沉稳冷静，喜怒不形于色，其身世成谜。
+魏克是天光的师弟，于1019年获得博士学位，后成为上国科大的老师。
 
 
 
 ###### 出生日期：
 
-光影纪元990年2月18日
+光影纪元992年7月2日

@@ -4,7 +4,7 @@ widget: pages
 headless: true
 weight: 20
 
-title: Latest News
+title: 最近发布
 subtitle:
 
 content:
@@ -22,3 +22,4 @@ design:
   view: 3
   columns: "1"
 ---
+
