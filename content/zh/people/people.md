@@ -19,7 +19,7 @@ content:
   - 五绝
   - 东南军
   - 上国科大
-  - Administration
+  - 神秘组织
   - Visitors
   - Alumni
 design:
