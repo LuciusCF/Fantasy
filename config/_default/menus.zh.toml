@@ -18,10 +18,10 @@
   url = "people"
   weight = 30
 
-[[main]]
-  name = "事件"
-  url = "event"
-  weight = 40
+#[[main]]
+ # name = "事件"
+  #url = "event"
+  #weight = 40
 
 #[[main]]
  # name = "Publications"
