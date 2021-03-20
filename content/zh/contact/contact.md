@@ -29,4 +29,4 @@ design:
   columns: '1'
 ---
 
-test
+如有想法或意见，请发送邮件至CaelumFantasy@gmail.com
