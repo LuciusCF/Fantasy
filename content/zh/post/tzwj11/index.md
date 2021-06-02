@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "天之五绝（10）"
+title: "天之五绝（11）"
 subtitle: ""
-summary: "香消玉殒"
-authors: [admin,yunying,nayi,junqing, zhaoan]
+summary: "斗琴"
+authors: [admin,yunying,nayi,zhaoan]
 tags: []
 categories: []
 date: 2021-05-31T15:31:30+08:00
@@ -28,7 +28,9 @@ image:
 projects: []
 ---
 
-娜依曾经随父亲去帝都见过中央领导人，早已知道赵安的身份，此刻见到赵安亲临，连忙起身迎接。
+娜依曾经随父亲去帝都见过中央领导人，所以知道赵安的身份，此刻见到赵安亲临，连忙起身迎接，“欢迎赵大小姐光临，谢谢关心。”
+
+赵安点点头，打量了厅内众人一番，看到一个生面孔，云英。
 
 <!--more-->
 
