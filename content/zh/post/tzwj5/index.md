@@ -11,6 +11,7 @@ date: 2020-12-17T15:31:30+08:00
 lastmod: 2020-12-17T15:31:30+08:00
 featured: true
 draft: false
+weight: 50
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
