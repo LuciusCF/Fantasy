@@ -9,26 +9,31 @@
 #  weight = 10
 
 [[main]]
-  name = "目录"
+  name = "天之五绝"
   url = "post"
   weight = 20
 
 [[main]]
+  name = "影界使者"
+  url = "post2"
+  weight = 30
+
+[[main]]
   name = "人物"
   url = "people"
-  weight = 30
+  weight = 50
 
 #[[main]]
  # name = "事件"
   #url = "event"
-  #weight = 40
+  #weight = 60
 
 #[[main]]
  # name = "Publications"
  # url = "publication"
-  #weight = 50
+  #weight = 70
 
 [[main]]
   name = "联系"
   url = "contact"
-  weight = 60
+  weight = 80
