@@ -13,10 +13,10 @@
   url = "post"
   weight = 20
 
-[[main]]
-  name = "影界使者"
-  url = "post2"
-  weight = 30
+#[[main]]
+ # name = "影界使者"
+ # url = "post2"
+ # weight = 30
 
 [[main]]
   name = "人物"
