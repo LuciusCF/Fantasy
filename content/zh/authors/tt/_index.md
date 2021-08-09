@@ -10,7 +10,7 @@ role: 神秘画师
 
 # Organizations/Affiliations
 organizations:
-- name: 神秘组织
+- name: 神秘人物
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
