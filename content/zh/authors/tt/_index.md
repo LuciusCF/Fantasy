@@ -66,7 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 神秘组织
+- 神秘人物
 ---
 
 彤彤为神秘画师，无人知道其来历，她会以各种不同的身份、性格、面目出现在世间，留下神秘莫测的画作。彤彤和天光之间似乎有某种联系，她的画作每次都能给天光启示。

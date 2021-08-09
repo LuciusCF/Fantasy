@@ -66,12 +66,12 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 五绝
+- 神秘人物
+#王心洁为上国第一富豪，王氏家族之女，其人古灵精怪，亦正亦邪，家族企业内的人称她为小公主，而外人称她为小魔女。
+
 ---
 
 王一斐为出现在南港上文大学校园内的神秘少女，在初次见到天光时便帮助了天光。
-
-#王心洁为上国第一富豪，王氏家族之女，其人古灵精怪，亦正亦邪，家族企业内的人称她为小公主，而外人称她为小魔女。
 
 
 
