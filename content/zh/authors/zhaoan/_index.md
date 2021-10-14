@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 赵安
+title: zhaoan
 
 # Is this the primary user of the site?
 superuser: false
