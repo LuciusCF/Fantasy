@@ -6,7 +6,7 @@ title: 王一斐
 superuser: false
 
 # Role/position
-role: 
+role: 花店打工少女
 
 # Organizations/Affiliations
 organizations:
