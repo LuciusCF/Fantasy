@@ -1,20 +1,20 @@
 ---
 # Display name
-title: 娜依
+title: Nayi
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 西纯
+role: West Innocence
 
 # Organizations/Affiliations
 organizations:
-- name: 西京
+- name: Xijing
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 天光的挚友
+bio: Best friend of Lucius Caelum
 
 
 #interests:
@@ -71,12 +71,12 @@ user_groups:
 
 娜依是西族族长那卡尔汗的独女，天光的挚友，精通音乐，素有“人间乐神”的称号。
 
+Nayi is the only daughter of Nakar Khan, the head of the Western clan, and a close friend of Lucius Caelum. She is proficient in music and is known as the "Goddess of Music on Earth".
 
+###### Birthday：
 
-###### 出生日期：
+June 13, 995, Lidow Era
 
-光影纪元995年6月13日
+###### Height：
 
-###### 身高：
-
-170厘米
+170CM

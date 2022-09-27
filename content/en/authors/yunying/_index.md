@@ -1,20 +1,20 @@
 ---
 # Display name
-title: 云英
+title: Yun Ying
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 东南军特种部队鹰小队上尉
+role: Captain of the Eagle Squad of the Southeast Army Special Forces
 
 # Organizations/Affiliations
 organizations:
-- name: 东南军区
+- name: Southeast Army
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 神秘军人
+bio: Mysterious soldier
 
 
 #interests:
@@ -69,15 +69,13 @@ user_groups:
 - 东南军
 ---
 
-云英是上国东南军区特种部队鹰小队上尉，奉东南军司令之命前往西京调查丢失弹头之事，从而被牵扯进一桩惊天阴谋。
+Yun Ying, the captain of the Eagle Squad of the Special Forces of the Southeast Military Region of Shina, was ordered by the commander of the Southeast Army to go to Xijing to investigate the loss of the warhead, thus being involved in a shocking conspiracy.
 
+###### Birthday：
 
+Aug. 3, 992, Lidow Era
 
-###### 出生日期：
+###### Height：
 
-光影纪元992年8月3日
-
-###### 身高：
-
-175厘米
+175CM
 

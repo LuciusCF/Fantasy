@@ -1,20 +1,20 @@
 ---
 # Display name
-title: 天光
+title: Lucius Caelum
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 中神通
+role: Centrical Godlike
 
 # Organizations/Affiliations
 organizations:
-- name: 天之家族
+- name: Caelum Family
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 天之家族的公子
+bio: Childe of the Caelum Family
 
 
 #interests:
@@ -69,14 +69,14 @@ user_groups:
 - 五绝
 ---
 
-天光是江南地区天之家族的公子，为人沉稳冷静，喜怒不形于色，其身世成谜。
+Lucius Caelum is the Childe of the Caelum Family in the south region of the Yangtze River. He is calm, his emotions are indistinguishable, and his background is a mystery.
 
 
 
-###### 出生日期：
+###### Birhthday：
 
-光影纪元990年2月18日
+Feb. 18, 990, Lidow Era
 
-###### 身高：
+###### Height：
 
-180厘米
+180CM

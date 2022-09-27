@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "天之五绝（3）"
+title: "Caelum Top 5（3）"
 subtitle: ""
-summary: "赵安"
+summary: "Zhao An"
 authors: [zhaoan]
 tags: []
 categories: []
@@ -29,36 +29,36 @@ image:
 projects: []
 ---
 
-帝都位处上国北方，是上国的首都，政治中心，经济中心。一个多世纪前，上国旧政权无力治国，外敌入侵，国内军阀林立，民不聊生，赵李孙钱四大家族新政权在东部发迹，内扫军阀，外抗强敌，联合西部民族首领那哈尔汗，于光影纪元920年时再次统一全国，将首都定于北都市，后改名为帝都，和上国大陆最东方的东海市并称为上国两大核心城市。
+Located in the north of Shina, the imperial capital is the capital, political center and economic center of Shina. More than a century ago, the old regime of Shina was unable to govern the country, foreign enemies invaded, domestic warlords were numerous, and the people were struggling to live. In the 920 year of the Guangying Era, the country was unified again, and the capital was set at Beidu, which was later renamed the Imperial Capital. Together with Donghai City, the most easternmost city in the mainland of Shina, they were called the two core cities of Shina.
 
 <!--more-->
 
-帝都某一深宅大院里，一身着红衣的年轻女子正坐在树下给一男童讲故事：“很久很久以前，有一片森林。森林里生活着老虎和羚羊，羚羊吃草，老虎则以捕食羚羊为生，两个族群各自繁衍生息，但如果老虎族群生存过于顺利，森林的生态平衡迟早会被打破。”男童眨眨眼睛，疑惑地问道：“小姨，什么叫生态平衡被打破啊？”女子说：“有老虎压制，羚羊的繁衍不会泛滥。但老虎作为这片森林生态位的顶端捕食者，能制约老虎数量的，只有这片森林的资源上限。一旦老虎繁衍过度，接近上限，捕食的羚羊过多，导致羚羊群体接近灭绝，老虎自身的生存也会受到极大威胁。这个时候，就是生态平衡被打破了。不过，大部分的森林还是能长时间保持生态平衡的，因为各种意外事故，以及老虎内部互相争斗也会限制老虎的数量，所以也没那么容易触及资源上限打破平衡。”男童似懂非懂地点点头，又问道：“如果老虎之间达成协议，互不争斗，一起和平相处会怎么样？”女子笑了一下，答道：“这种和平都是短暂而脆弱的，老虎们现在不争斗，只会加快它们的数量靠近资源上限的速度，等到它们数量多到足以打破生态平衡的时候才想起来管理族群数量，就为时已晚了。”男童噘噘嘴，失望地说道：“所以就是要限制老虎数量，才能维持生态平衡吗？那样的话，老虎是不是很可怜？”女子叹了口气说，：“齐儿你不能只站在老虎的视角看问题，羚羊就不可怜吗？万事万物皆有其生存之道，要遵守自然之理，不可贪婪。规律是客观的，是不以人的主观意志而转移的。”
+In a deep house compound in the imperial capital, a young woman in red was sitting under a tree telling a story to a boy: "A long time ago, there was a forest. Tigers and antelopes lived in the forest. The antelopes graze, and the tigers prey on the antelopes. For a living, the two groups thrive independently, but if the tiger group survives too smoothly, the ecological balance of the forest will be broken sooner or later." The boy blinked his eyes and asked in confusion, "Auntie, what is the ecological balance being broken? The woman said: "With the suppression of tigers, the reproduction of antelopes will not flood. But tigers, as the top predators of this forest ecological niche, can limit the number of tigers, only the upper limit of resources in this forest. Once tigers overproduce, it will approach the upper limit." , the predation of antelope is too much, leading to the near extinction of the antelope group, and the survival of the tiger itself will be greatly threatened. At this time, the ecological balance has been broken. However, most forests can still maintain ecological balance for a long time, because All kinds of accidents and fighting among tigers will also limit the number of tigers, so it is not so easy to touch the resource limit and break the balance." The boy nodded vaguely and asked, "If the tigers reach an agreement, What if we don't fight with each other, how about living together peacefully?" The woman smiled and replied, "This kind of peace is short-lived and fragile. The tigers don't fight now, it will only speed up the speed of their numbers approaching the resource limit. When the number of them is large enough to break the ecological balance, it is too late to think about managing the population." The boy pouted and said disappointedly: "So is it necessary to limit the number of tigers to maintain the ecological balance? That way? If so, isn't the tiger very pitiful?" The woman sighed and said, "Qi'er, you can't just look at the problem from the tiger's point of view, isn't the antelope not pitiful? Everything has its own way of survival, and we must abide by the principles of nature. , do not be greedy. The laws are objective and are not transferred by the subjective will of people.”
 
-正在他们讲故事之时，一个身穿军装的老年人走进了大院，男童见到后，瞬间把那个没有听明白的故事抛到脑后，开心地扑上去，喊到：“赵爷爷。”老年人则露出了慈爱的笑容，说：“齐儿，又来找你小姨讲故事了啊。”女子起身站立，喊了一声：“父亲。”老年人逗了齐儿两句，让随从带他回去，又跟女儿走进了内房。
+While they were telling the story, an old man in a military uniform walked into the compound. When the boy saw it, he immediately forgot the story he didn't understand, jumped up happily, and shouted, "Grandpa Zhao. ." The old man showed a loving smile and said, "Qi'er, I'm here to tell your aunt again." The woman stood up and called out, "Father." The old man teased Qi'er and asked The entourage took him back and walked into the inner room with his daughter.
 
-两人面对面坐下后，老年人率先发话，“自猎虎行动以来，安儿你似乎做了不少工作。”女子答道：“建国快100年了，一些利益集团已经成了气候，其关系网错综复杂，私下里的勾当多了去了，深入一查，各种大大小小的问题层出不穷。想要找出线索不难，难的是后续怎么处理。处理谁，挖掘到什么程度为止，都要全盘考虑。”
+After the two sat down face to face, the old man spoke first, "Since the tiger hunt, you seem to have done a lot of work." The woman replied, "It's been almost 100 years since the founding of the People's Republic of China, and some interest groups have become a climate, and their The network of relationships is intricate, and there are too many private activities. After a thorough investigation, various problems, big and small, emerge in an endless stream. It is not difficult to find clues, but the difficulty is how to deal with them in the future. Who to deal with, and to what extent, All have to be considered.”
 
-老年人叹了一口气，说：“我们都知道这事实属不易，让你来做，自会成为众矢之的。小一辈中，你文武全才，坚毅果断，我们都看好你。你堂兄虽然也有能力，但他有大任在身，不适合做这些得罪人的事，也只好委屈你了。”女子反而笑了，说：“规律是客观的，是不以人的主观意志而转移的。这件事，终究需要有人来做，而我是最佳的，也是唯一的人选。我自然不会退缩，反而很乐意。”老年人点点头，又道：“我的人已听到传言，有人已经私下里叫你“女魔头”。我知道你一心为国，只是有时候过于冷酷。你堂兄宅心仁厚，如果你们两个的性格能中和一些，对你们都好。”
+The old man sighed and said, "We all know this fact is not easy. If you do it, you will become the target of public criticism. Among the younger generation, you are talented in both civil and military, and you are determined and decisive. We are all optimistic about you. Although your cousin may He also has the ability, but he has great responsibilities and is not suitable to do these offending things, so he has no choice but to aggrieve you." Instead, the woman smiled and said, "The laws are objective, and are not shifted by people's subjective will. After all, someone needs to do this, and I am the best and the only candidate. I will not back down, but I am very happy." The old man nodded and said, "My people have heard the rumors, Someone has already called you "the devil" in private. I know that you are devoted to the country, but you are sometimes too cold. Your cousin is kind and kind, and it will be good for both of you if your personalities can be neutralized."
 
-女子听后，淡定地说：“我知道怎么拿捏分寸。家学中有过记载，围师必阙，故意给对手留点希望，做事不做绝，分散他们的意志，使之不会拼死抵抗。一旦对方放弃抵抗，选择逃亡，我方就可以用更小的代价获得胜利。”
+After listening to the woman, she said calmly: "I know how to be careful. There is a record in the family study that there must be a queer in the surrounding divisions, deliberately leaving some hope for the opponent, not doing things, and distracting their will, so that they will not resist desperately. Once the opponent gives up resistance and chooses to flee, we can win at a lower cost."
 
-老年人露出欣慰的笑容，缓缓说道：“安儿，年轻一辈中，属你天赋最高，年轻轻轻已经学全了两家积累了四代的家学。有你这样的女儿，是我们两家的幸运。我们这一辈已经老了，未来是你们年轻人的。猎虎行动你继续执行，有什么事再向我和你大伯报告。”二人又交谈了许久，直至深夜。
+The old man showed a gratified smile and said slowly, "An'er, among the younger generation, you are the one with the highest talent. Young Qing has already learned all the family studies that have accumulated for four generations. With a daughter like you, it is our Lucky for the two families. Our generation is already old, and the future belongs to your young people. You continue to carry out the tiger hunting operation, and report to me and your uncle if there is anything." The two talked for a long time until late at night.
 
-不知过了多久，女子走出房门，回到自己屋内。猎虎行动于几年前开始实施，且一时半刻不会结束，她每天都运筹帷幄，思前想后，已习惯了晚睡。但她精力旺盛，异于常人，所以并不感觉到累。当她沉思之时，听到门外有一阵敲门声，一人说道：“小姐，有一封紧急密信从西京传来，是你那个江南的朋友传过来的。”
+After an unknown amount of time, the woman walked out of the door and returned to her house. The tiger hunting operation started a few years ago, and it will not end for a while. She devises strategies every day, and after thinking about it, she is used to sleeping late. But she is energetic and different from ordinary people, so she doesn't feel tired. While she was thinking, she heard a knock on the door, and one person said, "Miss, there is an urgent secret letter from Xijing, from your friend in Jiangnan."
 
-他跑去西京做什么了？西京远离政治中心，几十年来都安然无恙，那边会有什么紧急密信？女子心生疑惑，命门外人进来，自己打开特制电脑，开启了邮箱。她身份特殊，用的是只有少数人才知道的特别加密电子邮箱，也只有少数被授予权限的人才能向她的邮箱发送密信。那个江南的朋友正是其中之一。
+What did he do in Xijing? Xijing is far away from the political center and has been safe for decades. What urgent secret letter will there be there? The woman was puzzled and ordered outsiders to come in. She turned on the special computer and opened the mailbox. She has a special status and uses a special encrypted email address that only a few people know, and only a few people who have been granted permission can send secret messages to her mailbox. That Jiangnan friend was one of them.
 
-女子仔细阅读这封密信，边读边皱起了眉头，这个事，令她也觉得古里古怪，不过直觉告诉她，不能掉以轻心。她心事重重地思考了起来。门外人已进来在旁等候，正是她的秘书。秘书问道：“要不要派我们的人去西京帮助调查？”
+The woman read the secret letter carefully, frowning as she read it. This matter also made her feel weird, but her instinct told her that she should not take it lightly. She thought hard. The outsider had come in and waited, it was her secretary. The secretary asked, "Would you like to send our people to Xijing to help with the investigation?"
 
-片刻后，女子开口说道：“我们的人还在各处执行猎虎行动，一时半刻没人能脱开身。好在这个人还算可靠，有他在西京，而且还了解前因后果，交给他办，应该可行。“
+After a while, the woman said: "Our people are still carrying out tiger hunting operations everywhere, and no one can get away for a while. Fortunately, this person is still reliable. He is in Xijing, and he understands the cause and effect. He does it, it should work."
 
-“可他不是我们的人，也没有经过专业训练。”秘书仍有些疑虑，只知道这人是女子的朋友，却不知其能力如何。
+"But he is not one of ours, and he has not received professional training." The secretary still had some doubts. He only knew that this person was a friend of the woman, but he did not know how capable he was.
 
-“此人素有神通公子，怪力通神的名声，虽然有凡人夸大宣传的嫌疑，但我和他认识有几年时间了，他虽然谈不上有什么经天纬地的雄才大略，但也还算机警敏锐。猎虎行动事关重大，只有交给完全可靠的自己人才行。西京的事虽然古怪，但还没摸清楚底细，先交给他调查，暂时不要动用正在猎虎的那些人。”女子停顿了一下，继续对秘书说：“我现在写一封密信给西京政府安全部的米克提中将，你也跟进一下这件事，有什么进展立刻跟我汇报。”
+"This man has a reputation for being a master of supernatural powers and supernatural powers. Although he is suspected of exaggerating propaganda by mortals, I have known him for a few years. Although he does not have any great talents, he is still alert and sensitive. The tiger-hunting operation is very important, and it can only be handed over to someone who is completely reliable. Although the Xijing thing is strange, but I haven't figured out the details yet, let him investigate first, and don't use those who are hunting tigers for the time being." The woman paused. After a while, he continued to say to the secretary, "I am now writing a secret letter to Lieutenant General Mikti of the Xijing Government Security Department. You should follow up this matter and report to me immediately if there is any progress."
 
-“是！”秘书立正敬礼答道。
+"Yes!" The secretary answered in a salute.
 
-女子坐在电脑前，不急不慢地打着字，不一会儿后就写好。她心中暗暗想着：以前没机会试你，这次正好让我看看，你到底有多神通。随后在密信尾部留下落款：
+The woman sat in front of the computer, typed slowly, and finished in a short while. She thought to herself: I didn't have a chance to try you before, this time just let me see how amazing you are. Then left an inscription at the end of the secret letter:
 
-上国内务委员部，赵安。
+The Ministry of Internal Affairs of Shina, Zhao An.

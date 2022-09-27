@@ -1,20 +1,20 @@
 ---
 # Display name
-title: 彤彤
+title: Tong Tong
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 神秘画师
+role: Mysterious Painter
 
 # Organizations/Affiliations
 organizations:
-- name: 神秘人物
+- name: Mysterious character
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 神秘画师
+bio: Mysterious Painter
 
 
 #interests:
@@ -69,14 +69,12 @@ user_groups:
 - 神秘人物
 ---
 
-彤彤为神秘画师，无人知道其来历，她会以各种不同的身份、性格、面目出现在世间，留下神秘莫测的画作。彤彤和天光之间似乎有某种联系，她的画作每次都能给天光启示。
+Tong Tong is a mysterious painter, and no one knows her origin. She will appear in the world with various identities, personalities, and faces, leaving behind mysterious and unpredictable paintings. There seems to be some connection between Tongtong and Lucius Caelum, and her paintings inspire Lucius every time.
 
+###### Birthday：
 
+Aug. 12, 992, Lidow Era
 
-###### 出生日期：
+###### Height：
 
-光影纪元992年8月12日
-
-###### 身高：
-
-163厘米
+163CM
