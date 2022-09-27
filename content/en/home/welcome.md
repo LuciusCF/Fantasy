@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "天之幻想"
+title: "Caelum Fantasy"
 subtitle: ""
 hero_media: welcome.png
 design:
@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-《天之幻想》是一个奇幻类故事，发生在虚构的架空世界——光影世界，通过主角们的视角逐步揭开了这个独特的幻想世界的种种奥秘。
+"Caelum Fantasy" is a fantasy story that takes place in a fictional overhead world - the Lidow world. Through the perspectives of the protagonists, the mysteries of this unique fantasy world are gradually revealed.
