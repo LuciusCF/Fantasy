@@ -1,20 +1,20 @@
 ---
 # Display name
-title: 赵安
+title: Zhao An
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 北傲
+role: North Pride
 
 # Organizations/Affiliations
 organizations:
-- name: 中央内务部
+- name: Ministry of Internal Affairs of Shina
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 天光的挚友，视天光为一生的劲敌。
+bio: Lucius's best friend. She regards Lucius as her lifelong rival.
 
 
 #interests:
@@ -69,18 +69,18 @@ user_groups:
 - 五绝
 ---
 
-赵安为赵氏家族第五代独女，中央内务部一处处长。其人傲气无双，不把大多数人放在眼里，争强好胜，凡事力求绝顶，视天光为一生之劲敌。
+Zhao An is the only daughter of the fifth generation of the Zhao family, and the head of the Ministry of Internal Affairs of Shina. She is arrogant and unparalleled, does not take most people in the eye, strives for excellence, strives to be the best in everything, and regards Lucius Caelum as her lifelong rival.
 
 
 
-###### 出生日期：
+###### Birthday：
 
-光影纪元990年2月18日
+Feb. 18, 990, Lidow Era
 
-###### 身高：
+###### Height：
 
-180厘米
+180CM
 
-###### 最爱的颜色：
+###### Favourite Colour：
 
-红色
+Bloody Red
