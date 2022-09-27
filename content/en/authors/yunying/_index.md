@@ -1,20 +1,20 @@
 ---
 # Display name
-title: 娜依
+title: 云英
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 西纯
+role: 东南军特种部队鹰小队上尉
 
 # Organizations/Affiliations
 organizations:
-- name: 西京
+- name: 东南军区
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 天光的挚友
+bio: 神秘军人
 
 
 #interests:
@@ -66,17 +66,18 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 五绝
+- 东南军
 ---
 
-娜依是西族族长那卡尔汗的独女，天光的挚友，精通音乐，素有“人间乐神”的称号。
+云英是上国东南军区特种部队鹰小队上尉，奉东南军司令之命前往西京调查丢失弹头之事，从而被牵扯进一桩惊天阴谋。
 
 
 
 ###### 出生日期：
 
-光影纪元995年6月13日
+光影纪元992年8月3日
 
 ###### 身高：
 
-170厘米
+175厘米
+

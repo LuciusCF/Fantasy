@@ -1,20 +1,20 @@
 ---
 # Display name
-title: 娜依
+title: 魏克
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 西纯
+role: 上国科大的老师
 
 # Organizations/Affiliations
 organizations:
-- name: 西京
+- name: 上国科大
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 天光的挚友
+bio: 天光的师弟
 
 
 #interests:
@@ -66,17 +66,17 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 五绝
+- 上国科大
 ---
 
-娜依是西族族长那卡尔汗的独女，天光的挚友，精通音乐，素有“人间乐神”的称号。
+魏克是天光的师弟，于1018年获得博士学位，后成为上国科大的老师。魏克常常声称自己铁拳无敌，刚猛无双。周围的人称其为“魏老湿”。
 
 
 
 ###### 出生日期：
 
-光影纪元995年6月13日
+光影纪元992年1月19日
 
 ###### 身高：
 
-170厘米
+172厘米

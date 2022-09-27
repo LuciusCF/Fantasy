@@ -1,20 +1,20 @@
 ---
 # Display name
-title: 娜依
+title: 赵安
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 西纯
+role: 北傲
 
 # Organizations/Affiliations
 organizations:
-- name: 西京
+- name: 中央内务部
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 天光的挚友
+bio: 天光的挚友，视天光为一生的劲敌。
 
 
 #interests:
@@ -69,14 +69,18 @@ user_groups:
 - 五绝
 ---
 
-娜依是西族族长那卡尔汗的独女，天光的挚友，精通音乐，素有“人间乐神”的称号。
+赵安为赵氏家族第五代独女，中央内务部一处处长。其人傲气无双，不把大多数人放在眼里，争强好胜，凡事力求绝顶，视天光为一生之劲敌。
 
 
 
 ###### 出生日期：
 
-光影纪元995年6月13日
+光影纪元990年2月18日
 
 ###### 身高：
 
-170厘米
+180厘米
+
+###### 最爱的颜色：
+
+红色

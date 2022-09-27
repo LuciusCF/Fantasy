@@ -1,20 +1,20 @@
 ---
 # Display name
-title: 魏克
+title: 彤彤
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 上国科大的老师
+role: 神秘画师
 
 # Organizations/Affiliations
 organizations:
-- name: 上国科大
+- name: 神秘人物
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 天光的师弟
+bio: 神秘画师
 
 
 #interests:
@@ -66,13 +66,17 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 上国科大
+- 神秘人物
 ---
 
-魏克是天光的师弟，于1019年获得博士学位，后成为上国科大的老师。
+彤彤为神秘画师，无人知道其来历，她会以各种不同的身份、性格、面目出现在世间，留下神秘莫测的画作。彤彤和天光之间似乎有某种联系，她的画作每次都能给天光启示。
 
 
 
 ###### 出生日期：
 
-光影纪元992年7月2日
+光影纪元992年8月12日
+
+###### 身高：
+
+163厘米

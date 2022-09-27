@@ -1,20 +1,20 @@
 ---
 # Display name
-title: 娜依
+title: 隽晴
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 西纯
+role: 流落到西部的少女
 
 # Organizations/Affiliations
 organizations:
-- name: 西京
+- name: 不明
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 天光的挚友
+bio: 流落到西部的少女，被娜依收留
 
 
 #interests:
@@ -66,17 +66,18 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 五绝
+- 
 ---
 
-娜依是西族族长那卡尔汗的独女，天光的挚友，精通音乐，素有“人间乐神”的称号。
+隽晴为流落到西部的少女，在西京恐袭事件现场被天光所救，后被娜依收留，成为娜依府邸的侍女。
 
 
 
 ###### 出生日期：
 
-光影纪元995年6月13日
+光影纪元1001年10月13日
 
 ###### 身高：
 
 170厘米
+

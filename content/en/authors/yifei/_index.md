@@ -1,20 +1,21 @@
 ---
 # Display name
-title: 娜依
+title: 王一斐
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 西纯
+role: 花店打工少女
 
 # Organizations/Affiliations
 organizations:
-- name: 西京
+- name: 南港特别行政区
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 天光的挚友
+#亦正亦邪的小魔女
+bio: 
 
 
 #interests:
@@ -66,17 +67,22 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 五绝
+- 南港特别行政区
+#王心洁为上国第一富豪，王氏家族之女，其人古灵精怪，亦正亦邪，家族企业内的人称她为小公主，而外人称她为小魔女。
+
 ---
 
-娜依是西族族长那卡尔汗的独女，天光的挚友，精通音乐，素有“人间乐神”的称号。
+王一斐是南港特别行政区的一个平民少女，在初次见到天光时便帮助了天光。
 
 
 
 ###### 出生日期：
 
-光影纪元995年6月13日
+光影纪元997年1月8日
+
+
 
 ###### 身高：
 
-170厘米
+168厘米
+

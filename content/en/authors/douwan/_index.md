@@ -1,20 +1,20 @@
 ---
 # Display name
-title: 娜依
+title: 窦婉
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 西纯
+role: 南逗
 
 # Organizations/Affiliations
 organizations:
-- name: 西京
+- name: 家庭主妇
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 天光的挚友
+bio: 天光的学妹，有“女中诸葛”之称。
 
 
 #interests:
@@ -69,14 +69,15 @@ user_groups:
 - 五绝
 ---
 
-娜依是西族族长那卡尔汗的独女，天光的挚友，精通音乐，素有“人间乐神”的称号。
+窦婉为天光的学妹，和丈夫定居于南港特区，现为一家庭主妇。窦婉聪明绝顶，有“女中诸葛”之称。同时，她性格怪异，以逗人玩为乐，天光称她为南逗。然而，她的笑容下隐藏着不为人知的过去。
 
 
 
 ###### 出生日期：
 
-光影纪元995年6月13日
+光影纪元991年6月26日
 
 ###### 身高：
 
 170厘米
+
