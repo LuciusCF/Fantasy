@@ -16,9 +16,9 @@ content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-  - 五绝
-  - 上国科大
-  - Grad Students
+  - Top 5
+  - USTC
+  - Mysterious
   - Administration
   - Visitors
   - Alumni
