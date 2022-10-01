@@ -66,12 +66,12 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 五绝
+- Top 5
 ---
 
-娜依是西族族长那卡尔汗的独女，天光的挚友，精通音乐，素有“人间乐神”的称号。
+Nayi is the only daughter of Nakar Khan, the head of the Western clan, and a close friend of Lucius Caelum. She is proficient in music and is known as the "Goddess of Music".
 
-Nayi is the only daughter of Nakar Khan, the head of the Western clan, and a close friend of Lucius Caelum. She is proficient in music and is known as the "Goddess of Music on Earth".
+
 
 ###### Birthday：
 

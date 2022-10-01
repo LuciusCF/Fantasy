@@ -9,12 +9,12 @@
 #  weight = 10
 
 [[main]]
-  name = "Caelum Fantasy"
+  name = "Caelum Top 5"
   url = "post"
   weight = 20
 
 [[main]]
-  name = "People"
+  name = "Characters"
   url = "people"
   weight = 30
 

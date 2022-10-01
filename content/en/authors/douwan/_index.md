@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 窦婉
+title: Dou Wan
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 南逗
+role: South Funny
 
 # Organizations/Affiliations
 organizations:
-- name: 家庭主妇
+- name: A housewife
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -66,18 +66,18 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 五绝
+- Top 5
 ---
 
-窦婉为天光的学妹，和丈夫定居于南港特区，现为一家庭主妇。窦婉聪明绝顶，有“女中诸葛”之称。同时，她性格怪异，以逗人玩为乐，天光称她为南逗。然而，她的笑容下隐藏着不为人知的过去。
+Dou Wan is Lucius's younger classmate. She and her husband live in the South Kong SAR. She is now a housewife. Dou Wan is extremely intelligent and is known as "Female Zhuge". At the same time, she has a weird personality and takes pleasure in making fun of others. Lucius calls her "South Funny". However, an unknown past hides under her smile.
 
 
 
-###### 出生日期：
+###### Birthday：
 
-光影纪元991年6月26日
+June 26, 991, Lidow Era
 
-###### 身高：
+###### Height：
 
-170厘米
+170CM
 

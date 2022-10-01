@@ -66,10 +66,12 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 神秘人物
+- Mysterious
 ---
 
 Tong Tong is a mysterious painter, and no one knows her origin. She will appear in the world with various identities, personalities, and faces, leaving behind mysterious and unpredictable paintings. There seems to be some connection between Tongtong and Lucius Caelum, and her paintings inspire Lucius every time.
+
+
 
 ###### Birthday：
 

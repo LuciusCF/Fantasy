@@ -66,7 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 五绝
+- Top 5
 ---
 
 Zhao An is the only daughter of the fifth generation of the Zhao family, and the head of the Ministry of Internal Affairs of Shina. She is arrogant and unparalleled, does not take most people in the eye, strives for excellence, strives to be the best in everything, and regards Lucius Caelum as her lifelong rival.
