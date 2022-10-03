@@ -83,12 +83,12 @@ Yun Ying immediately understood that Lucius's speculation was very likely, and c
 
 While the two were talking, a figure slowly emerged.
 
-"Who?" Yun Ying immediately stretched out her hands to hold the two knives at her waist, while Lucius stared in the direction of the visitor without saying a word.
+"Who is there?" Yun Ying immediately stretched out her hands to hold the two knives at her waist, while Lucius stared in the direction of the visitor without saying a word.
 
-The person who came was actually a young woman, holding a painting in her hand, and said to Lucius with a smile: "Doctor, it seems that you are in trouble again."
+The person who came was actually a young woman, holding a painting in her hand, and said to Lucius with a smile: "Dear Ph.D, it seems that you are in trouble again."
 
-Yun Ying looked at the sky in confusion, and felt that this woman seemed to be his friend. Lucius stared at the painting in her hand and did not speak. The painting shows three tigers facing each other in a circle, as if they were discussing something. The unfamiliar woman continued, "This is my new painting, specially painted for you. After you finish it, I will leave."
+Yun Ying looked at Lucius in confusion, and felt that this woman seemed to be his friend. Lucius stared at the painting in her hand and did not speak. The painting shows three tigers facing each other in a circle, as if they were discussing something. The unfamiliar woman continued, "This is my new painting, specially painted for you. After you see it, I will leave."
 
 Only then did Lucius ask, "Who are you? What does this painting mean?"
 
-The unfamiliar woman turned around and left, saying as she walked, "Young master with supernatural powers, you have the power to control the mind. It is up to you to comprehend the meaning of the painting." The woman suddenly turned her head and showed a meaningful smile: "I'm Tongtong, and we will continue to do so in the future. See you." After speaking, he quickly disappeared into the night.
+The unfamiliar woman turned around and left, saying as she walked, "Godlike childe has the power like a god. It is up to you to comprehend the meaning of the painting." The woman suddenly turned her head and showed a meaningful smile: "I'm Tong Tong, and we will meet again in the future. See you." After speaking, she quickly disappeared into the night.
