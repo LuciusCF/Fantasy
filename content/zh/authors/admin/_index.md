@@ -10,7 +10,7 @@ title: 天光
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 中神通
 
 # Organizations/Affiliations
 organizations:
