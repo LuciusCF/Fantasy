@@ -14,18 +14,7 @@ sections:
         filename: welcome.jpg
       text: |
         <br>
-<<<<<<< HEAD
-      《天之幻想》是一个奇幻类故事，发生在虚构的架空世界——光影世界，通过主角们的视角逐步揭开了这个独特的幻想世界的种种奥秘。该系列分为三部分，第一部分为《天之五绝》。
 
-       作者：天光
-
-
-
-=======
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
->>>>>>> parent of c63d1d3 (1)
   - block: collection
     content:
       title: Latest News
@@ -44,7 +33,7 @@ sections:
     design:
       view: card
       columns: '1'
-  
+
   - block: markdown
     content:
       title:
