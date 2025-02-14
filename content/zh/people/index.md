@@ -9,7 +9,7 @@ sections:
 
 - block: people
   content:
-    title: 
+    title: Meet the Team
   
   # Choose which groups/teams of users to display.
   
