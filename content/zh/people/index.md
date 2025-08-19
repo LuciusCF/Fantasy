@@ -22,6 +22,7 @@ sections:
         - 上国科大
         - 南港特别行政区
         - 神秘人物
+        - 内务部
         - Alumni
   
     sort_by: Params.last_name

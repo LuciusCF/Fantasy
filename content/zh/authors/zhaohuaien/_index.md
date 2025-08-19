@@ -6,7 +6,7 @@ title: 赵怀恩
 superuser: false
 
 # Role/position
-role: 内务部首席武官
+role: 内务部部长副官
 
 # Organizations/Affiliations
 organizations:
@@ -66,7 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 帝都
+- 内务部
 ---
 
 赵怀恩是帝都军统帅副官赵至道之子，从小就被培养成赵安的副手，和赵安一起长大，现为内务部部长副官，是赵安的得力助手。他对赵安忠心耿耿，随时可以为了他的赵大小姐赴汤蹈火。
