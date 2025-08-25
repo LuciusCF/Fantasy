@@ -19,6 +19,6 @@ main:
   #- name: Publications
    # url: publication
     #weight: 50
-  - name: 联系
+  - name: 联系作者
     url: contact
     weight: 60

@@ -81,3 +81,7 @@ user_groups:
 ###### 身高：
 
 180厘米
+
+**MBTI：**
+
+INTJ
