@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 王伊妃1
+title: 王伊妃
 
 # Is this the primary user of the site?
 superuser: false
