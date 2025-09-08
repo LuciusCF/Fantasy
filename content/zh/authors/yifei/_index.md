@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 王一斐
+title: 王伊妃
 
 # Is this the primary user of the site?
 superuser: false
@@ -68,10 +68,10 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - 南港特别行政区
-#王心洁为上国第一富豪，王氏家族之女，其人古灵精怪，亦正亦邪，家族企业内的人称她为小公主，而外人称她为小魔女。
+
 
 ---
 
-王一斐是南港特别行政区的一个平民少女，在初次见到天光时便帮助了天光。
+王伊妃是南港特别行政区的一个平民少女，在初次见到天光时便帮助了天光。
 
 # 
