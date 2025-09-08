@@ -1,6 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "天之五绝（14）"
 subtitle: ""
 summary: "故地重游"
@@ -115,4 +113,4 @@ projects: []
 
 天光心里有很多疑惑，觉得这个女孩神秘莫测，但是似乎并非敌人，便提议：“我们换个地方说吧。我叫天光，你叫什么名字？”
 
-女孩笑着答应，说：“好的，大哥哥，我叫王一斐。”
+女孩笑着答应，说：“好的，大哥哥，我叫王伊菲。”
