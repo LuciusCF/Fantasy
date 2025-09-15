@@ -19,11 +19,11 @@ sections:
   
         - 五绝
         - 东南军
-        - 上国科大
+        - 北方军
+        - 上国科大  
         - 南港特别行政区
         - 神秘人物
         - 内务部
-        - Alumni
   
     sort_by: Params.last_name
     sort_ascending: true
