@@ -2,7 +2,7 @@
 title: "天之五绝（28）"
 subtitle: ""
 summary: "初到东南"
-authors: [admin,yunying,linhu,zhangjainwei,zhangluntai]
+authors: [admin,yunying,linhu,zhangjianwei,zhangluntai]
 tags: []
 categories: []
 date: 2025-09-04
