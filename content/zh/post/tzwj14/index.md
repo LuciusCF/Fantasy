@@ -2,7 +2,7 @@
 title: "天之五绝（14）"
 subtitle: ""
 summary: "故地重游"
-authors: [admin,tt,weak,yifei]
+authors: [admin,tt,weak,xiaoying]
 tags: []
 categories: []
 date: 2021-05-31T15:31:30+08:00
@@ -113,4 +113,4 @@ projects: []
 
 天光心里有很多疑惑，觉得这个女孩神秘莫测，但是似乎并非敌人，便提议：“我们换个地方说吧。我叫天光，你叫什么名字？”
 
-女孩笑着答应，说：“好的，大哥哥，我叫王伊妃。”
+女孩笑着答应，说：“好的，大哥哥，我叫王小影。”

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 王伊妃
+title: 王小影
 
 # Is this the primary user of the site?
 superuser: false
@@ -72,6 +72,6 @@ user_groups:
 
 ---
 
-王伊妃是南港特别行政区的一个平民少女，在初次见到天光时便帮助了天光。
+王小影是南港特别行政区的一个平民少女，在初次见到天光时便帮助了天光。
 
 # 
