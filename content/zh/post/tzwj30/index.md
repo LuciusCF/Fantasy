@@ -80,3 +80,18 @@ projects: []
 赵怀恩立刻立正，说：“是！”
 
 正在这时，一名内务部特工急忙跑过来，慌张地说：“大小姐，赵副官，不好了，那个CAI特工本来还好好的，刚刚突然就不明不白地死了！”
+
+<nav class="post-navigation">
+  <ul>
+    {{ with .PrevInSection }}
+      <li class="prev">
+        <a href="{{ .Permalink }}">← {{ .Title }}</a>
+      </li>
+    {{ end }}
+    {{ with .NextInSection }}
+      <li class="next">
+        <a href="{{ .Permalink }}">{{ .Title }} →</a>
+      </li>
+    {{ end }}
+  </ul>
+</nav>
