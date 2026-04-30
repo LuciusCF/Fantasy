@@ -1,17 +1,34 @@
 <nav class="pagination-nav" aria-label="章节翻页">
   <div class="pagination justify-content-between">
+    <!-- 左侧按钮：显示“上一章”，但使用 NextInSection 来纠正顺序 -->
     <div class="page-item-previous">
-      {{ with .Page.PrevInSection }}
-        <a href="{{ .Permalink }}" class="btn btn-outline-primary pagination-btn" rel="prev">← 上一章</a>
+      {{ if .Page.NextInSection }}
+        {{ $prevFixed := .Page.NextInSection }}
+        <a href="{{ $prevFixed.Permalink }}" class="btn btn-outline-primary pagination-btn" rel="prev">
+          ← 上一章
+          <span class="pagination-title">{{ $prevFixed.Title }}</span>
+        </a>
       {{ else }}
-        <span class="btn btn-outline-secondary disabled pagination-btn" aria-disabled="true">← 上一章</span>
+        <span class="btn btn-outline-secondary disabled pagination-btn" aria-disabled="true">
+          ← 上一章
+          <span class="pagination-title">已是最前</span>
+        </span>
       {{ end }}
     </div>
+
+    <!-- 右侧按钮：显示“下一章”，但使用 PrevInSection 来纠正顺序 -->
     <div class="page-item-next">
-      {{ with .Page.NextInSection }}
-        <a href="{{ .Permalink }}" class="btn btn-outline-primary pagination-btn" rel="next">下一章 →</a>
+      {{ if .Page.PrevInSection }}
+        {{ $nextFixed := .Page.PrevInSection }}
+        <a href="{{ $nextFixed.Permalink }}" class="btn btn-outline-primary pagination-btn" rel="next">
+          下一章 →
+          <span class="pagination-title">{{ $nextFixed.Title }}</span>
+        </a>
       {{ else }}
-        <span class="btn btn-outline-secondary disabled pagination-btn" aria-disabled="true">下一章 →</span>
+        <span class="btn btn-outline-secondary disabled pagination-btn" aria-disabled="true">
+          下一章 →
+          <span class="pagination-title">已是最后</span>
+        </span>
       {{ end }}
     </div>
   </div>
