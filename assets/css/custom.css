@@ -1,0 +1,37 @@
+﻿.pagination-nav {
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+}
+
+.pagination {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.pagination-btn {
+  display: flex;
+  flex-direction: column;   /* 让“上一章/下一章”文字和标题上下排列 */
+  text-align: left;
+  white-space: normal;      /* 允许标题换行 */
+  min-width: 160px;
+  word-break: break-word;
+}
+
+.pagination-title {
+  font-size: 0.9em;
+  font-weight: 500;
+  opacity: 0.9;
+  margin-top: 0.25rem;
+}
+
+/* 可选：让按钮在全宽下左右分布 */
+.page-item-previous {
+  flex: 1 1 auto;
+  text-align: left;
+}
+
+.page-item-next {
+  flex: 1 1 auto;
+  text-align: right;
+}
