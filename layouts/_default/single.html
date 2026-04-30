@@ -2,24 +2,23 @@
 
 <article class="article">
 
-  <!-- 文章头部：标题、副标题、元数据 -->
   <div class="article-container pt-3">
     <h1>{{ .Title }}</h1>
     {{ with .Params.subtitle }}
       <p class="page-subtitle">{{ . }}</p>
     {{ end }}
     <div class="article-metadata">
-      {{ partial "page_metadata" . }}
+      <!-- 修正调用方式 -->
+      {{ partial "page_metadata" (dict "page" . "is_list" 0) }}
     </div>
   </div>
 
-  <!-- 文章正文 -->
   <div class="article-container">
     <div class="article-style">
       {{ .Content }}
     </div>
 
-    <!-- 翻页功能键：位于正文与分享之间 -->
+    <!-- 翻页功能键 -->
     <nav class="pagination-nav" aria-label="章节翻页">
       <div class="pagination justify-content-between">
         <div class="page-item-previous">
@@ -43,10 +42,8 @@
       </div>
     </nav>
 
-    <!-- 分享组件 -->
+    <!-- 分享与作者卡片通常也需要传入字典，参考官方示例调整 -->
     {{ partial "share" . }}
-
-    <!-- 作者卡片（支持多作者） -->
     {{ range .Params.authors }}
       {{ $author := . }}
       {{ with site.GetPage (printf "/author/%s" $author) }}
