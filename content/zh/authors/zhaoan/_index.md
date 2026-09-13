@@ -86,3 +86,7 @@ ENTJ
 ###### 最爱的颜色：
 
 红色
+
+
+
+{{< character_gallery >}}
