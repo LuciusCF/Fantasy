@@ -1,0 +1,24 @@
+{{/* 自动获取当前人物 settings 文件夹下的所有图片 */}}
+{{ $gallery := .Page.Resources.Match "settings/*" }}
+
+{{/* 只有当存在设定图时才渲染这个 Section */}}
+{{ if $gallery }}
+<section class="character-gallery-section" style="margin-top: 2.5rem;">
+  <h3 style="margin-bottom: 1rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem;">设定集</h3>
+  
+  {{/* CSS Grid 弹性网格布局 */}}
+  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 16px;">
+    {{ range $gallery }}
+    <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08); background: #f9f9f9; text-align: center;">
+      <a href="{{ .RelPermalink }}" target="_blank" data-fancybox="gallery">
+        <img src="{{ .RelPermalink }}" alt="{{ .Title }}" style="width: 100%; height: 220px; object-fit: cover; display: block;">
+      </a>
+      {{/* 自动把文件名（去除后缀）作为图片标题 */}}
+      <div style="padding: 8px; font-size: 0.85em; color: #555;">
+        {{ .Title | replaceRE "^[0-9]+_" "" }}
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

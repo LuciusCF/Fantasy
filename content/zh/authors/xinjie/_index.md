@@ -81,3 +81,7 @@ user_groups:
 ###### 身高：
 
 164厘米
+
+
+
+{{< character_gallery >}}
