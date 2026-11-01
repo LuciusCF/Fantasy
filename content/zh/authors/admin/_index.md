@@ -85,3 +85,7 @@ user_groups:
 **MBTI：**
 
 INTJ
+
+
+
+{{< character_gallery >}}
