@@ -81,8 +81,6 @@ user_groups:
 
 ###### 身材：
 
-38E
-
-
+38F
 
 {{< character_gallery >}}
