@@ -6,7 +6,7 @@ title: 谢泽
 superuser: false
 
 # Role/position
-role: 上国科学技术大学进击的型男团成员
+role: 进击的型男团成员
 
 # Organizations/Affiliations
 organizations:
