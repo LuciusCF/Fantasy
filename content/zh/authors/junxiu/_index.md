@@ -66,7 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 
+- 西京
 ---
 
 隽秀为流落到西部的少女，在西京恐袭事件现场被天光所救，后被娜依收留，成为娜依府邸的侍女。

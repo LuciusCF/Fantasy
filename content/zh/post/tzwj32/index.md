@@ -1,7 +1,7 @@
 ---
 title: "天之五绝（32）"
 subtitle: "上国科大"
-summary: ""
+summary: "上国科大"
 authors: [zhaoan,zhaohuaien,admin,yunying,xieze]
 tags: []
 categories: []
